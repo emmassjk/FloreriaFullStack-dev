@@ -1,0 +1,81 @@
+/* Rose color palette */
+:root {
+    --primary-color: #F8BBD0;
+    --secondary-color: #F48FB1;
+    --accent-color: #E91E63;
+    --text-color: #333333;
+    --background-color: #FCE4EC;
+}
+
+body {
+    background-color: var(--background-color);
+    color: var(--text-color);
+}
+
+.container {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1,
+h3 {
+    color: var(--accent-color);
+}
+
+.btn {
+    background-color: var(--primary-color);
+    color: white;
+    border: none;
+}
+
+.btn:hover {
+    background-color: var(--secondary-color);
+}
+
+.instagram-button {
+    background: linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
+    color: white;
+    margin-right: 10px;
+}
+
+.whatsapp-button {
+    margin-right: 10px;
+    background: linear-gradient(45deg, #128C7E 0%, #25D366 50%, #075E54 100%);
+    color: white;
+}
+
+.contact-options {
+    margin-bottom: 20px;
+}
+
+.whatsapp-text {
+    margin-top: 10px;
+}
+
+.developers {
+    margin-top: 30px;
+    text-align: center;
+}
+
+.developers h3 {
+    margin-bottom: 10px;
+}
+
+.developers ul {
+    list-style: none;
+    padding: 0;
+}
+
+.developers li {
+    margin-bottom: 5px;
+}
+
+.logo {
+    max-width: 200px;
+    display: block;
+    margin: 20px auto;
+    height: auto;
+    
+}
