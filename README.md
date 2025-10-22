@@ -23,14 +23,14 @@ La aplicación está construida utilizando un conjunto de tecnologías modernas,
 | **React** | Biblioteca de JavaScript para construir interfaces de usuario dinámicas. |
 | **JavaScript** | Lenguaje principal del lado del cliente. |
 | **CSS** | Estilos visuales de la aplicación. |
-| **<Librerías Adicionales>** | <Añade aquí cualquier otra biblioteca importante para el UI o la gestión de estado, como Axios, Redux/Context, Bootstrap/Tailwind, etc.> |
+
 
 ### Backend
 | Tecnología | Descripción |
 | :--- | :--- |
 | **Java** | Lenguaje principal del lado del servidor. |
 | **Spring Boot** | Framework de Java utilizado para construir la API RESTful, la lógica de negocio y la configuración de manera eficiente. |
-| **<Base de Datos: p.ej., MySQL, PostgreSQL>** | Sistema de gestión de bases de datos persistente. |
+| **<Base de Datos:  MySQL** | Sistema de gestión de bases de datos persistente. |
 
 ---
 
