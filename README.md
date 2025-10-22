@@ -30,7 +30,7 @@ La aplicación está construida utilizando un conjunto de tecnologías modernas,
 | :--- | :--- |
 | **Java** | Lenguaje principal del lado del servidor. |
 | **Spring Boot** | Framework de Java utilizado para construir la API RESTful, la lógica de negocio y la configuración de manera eficiente. |
-| **<Base de Datos:  MySQL** | Sistema de gestión de bases de datos persistente. |
+| **Base de Datos:  MySQL** | Sistema de gestión de bases de datos persistente. |
 
 ---
 
