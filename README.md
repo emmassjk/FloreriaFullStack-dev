@@ -9,7 +9,7 @@ El objetivo principal de esta plataforma es proporcionar una solución digital c
 * Explorar y buscar un catálogo de productos florales.
 * Gestionar un carrito de compras.
 * Completar el proceso de pago y realizar pedidos.
-* <Añadir una funcionalidad clave más, p.ej., Acceder a un panel de administración para gestionar inventario y pedidos.>
+* Acceder a un panel de administración para gestionar inventario y pedidos.
 
 ---
 
