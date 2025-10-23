@@ -42,3 +42,19 @@ El proyecto se organiza en dos directorios principales que reflejan su arquitect
 | :--- | :--- |
 | `floreriaReact/` | Contiene el código fuente completo del **Frontend** (interfaz de usuario de React). |
 | `projectbackend/` | Contiene el código fuente completo del **Backend** (API REST, lógica de negocio y configuración de la base de datos con Java y Spring Boot). |
+
+
+## Ejecucion de Proyecto
+
+### Backend
+* Inicia MySQL desde el panel de control de XAMPP.
+* Abre MySQL Workbench y asegúrate de que la base de datos llamada base exista.
+* Ejecutar el proyecto desde el dashboard
+* ejecutar script del llenado de la base de datos
+
+### Frontend
+* Navega al directorio del frontend: FloreriaFullStack-dev-main\FloreriaFullStack-dev-main\floreriaReact\floreriaReact
+*  Instala los modulos con: npm install modules
+* Ejecutar con: npm run dev
+
+
